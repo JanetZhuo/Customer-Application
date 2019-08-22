@@ -1,6 +1,6 @@
 This project use React, Redux, NodeJS and MongoDB.
 
-You can view in online :
+You can view in online : https://customer-application.herokuapp.com/
 
 -------------------
 How to run it?
